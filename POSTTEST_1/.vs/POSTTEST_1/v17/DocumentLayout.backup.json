@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4438DD-116B-4C7B-A732-35E6394E0C72}|POSTTEST_1.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9A4438DD-116B-4C7B-A732-35E6394E0C72}|POSTTEST_1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4438DD-116B-4C7B-A732-35E6394E0C72}|POSTTEST_1.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9A4438DD-116B-4C7B-A732-35E6394E0C72}|POSTTEST_1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_1\\Form1.vb*",
+              "RelativeToolTip": "Form1.vb*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T05:53:13.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_1\\Form1.vb [Design]*",
+              "RelativeToolTip": "Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-28T05:50:02.4Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

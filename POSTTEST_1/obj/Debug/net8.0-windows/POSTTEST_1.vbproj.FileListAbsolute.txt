@@ -1,0 +1,16 @@
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\bin\Debug\net8.0-windows\POSTTEST_1.exe
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\bin\Debug\net8.0-windows\POSTTEST_1.deps.json
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\bin\Debug\net8.0-windows\POSTTEST_1.runtimeconfig.json
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\bin\Debug\net8.0-windows\POSTTEST_1.dll
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\bin\Debug\net8.0-windows\POSTTEST_1.pdb
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\POSTTEST_1.Form1.resources
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\POSTTEST_1.vbproj.GenerateResource.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\POSTTEST_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\POSTTEST_1.AssemblyInfoInputs.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\POSTTEST_1.AssemblyInfo.vb
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\POSTTEST_1.vbproj.CoreCompileInputs.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\POSTTEST_1.dll
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\refint\POSTTEST_1.dll
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\POSTTEST_1.pdb
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\POSTTEST_1.genruntimeconfig.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_1\obj\Debug\net8.0-windows\ref\POSTTEST_1.dll
