@@ -1,0 +1,38 @@
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.FormKartu.resources
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\files (1)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.FormKartu.resources
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\EGA\OneDrive\Dokumen\POSTTEST_VIS\POSTTEST_4\POSTTEST_4\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
