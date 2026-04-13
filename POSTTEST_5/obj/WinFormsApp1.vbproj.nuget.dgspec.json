@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\WinFormsApp1\\WinFormsApp1.vbproj": {}
+    "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_5\\WinFormsApp1.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\WinFormsApp1\\WinFormsApp1.vbproj": {
+    "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_5\\WinFormsApp1.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\WinFormsApp1\\WinFormsApp1.vbproj",
+        "projectUniqueName": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_5\\WinFormsApp1.vbproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\WinFormsApp1\\WinFormsApp1.vbproj",
+        "projectPath": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_5\\WinFormsApp1.vbproj",
         "packagesPath": "C:\\Users\\EGA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

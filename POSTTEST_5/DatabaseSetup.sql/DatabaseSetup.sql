@@ -1,6 +1,7 @@
 CREATE DATABASE IF NOT EXISTS db_depot_barokah;
 USE db_depot_barokah;
 
+-- Tabel produk dengan engine InnoDB
 CREATE TABLE IF NOT EXISTS tbl_produk (
     id_produk     INT AUTO_INCREMENT PRIMARY KEY,
     nama_produk   VARCHAR(100) NOT NULL,
@@ -8,8 +9,9 @@ CREATE TABLE IF NOT EXISTS tbl_produk (
     harga         DECIMAL(10,0) NOT NULL,
     stok          INT NOT NULL DEFAULT 0,
     keterangan    TEXT
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+-- Tabel isi ulang dengan foreign key yang lebih baik
 CREATE TABLE IF NOT EXISTS tbl_isiulang (
     id_pesan       INT AUTO_INCREMENT PRIMARY KEY,
     nama_pelanggan VARCHAR(100) NOT NULL,
@@ -19,11 +21,14 @@ CREATE TABLE IF NOT EXISTS tbl_isiulang (
     total_harga    DECIMAL(10,0) NOT NULL,
     tanggal        DATE NOT NULL,
     status         VARCHAR(20) NOT NULL DEFAULT 'Proses',
-    FOREIGN KEY (id_produk) REFERENCES tbl_produk(id_produk)
-);
+    FOREIGN KEY (id_produk) REFERENCES tbl_produk(id_produk) 
+        ON DELETE CASCADE 
+        ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+-- Insert data contoh
 INSERT INTO tbl_produk (nama_produk, kategori, harga, stok, keterangan) VALUES
 ('Galon Isi Ulang 19L', 'Galon', 5000, 200, 'Air mineral murni'),
 ('Galon Isi Ulang 10L', 'Galon', 3000, 150, 'Ukuran medium'),
-('Botol 1.5L',          'Botol', 4000, 500, 'Kemasan botol bersegel'),
-('Botol 600ml',         'Botol', 2500, 300, 'Ukuran mini praktis');
+('Botol 1.5L', 'Botol', 4000, 500, 'Kemasan botol bersegel'),
+('Botol 600ml', 'Botol', 2500, 300, 'Ukuran mini praktis');

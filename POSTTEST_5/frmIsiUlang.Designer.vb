@@ -65,7 +65,7 @@ Partial Class frmIsiUlang
         ' lblTitle
         ' 
         lblTitle.AutoSize = True
-        lblTitle.Font = New Font("Segoe UI", 13.0F, FontStyle.Bold)
+        lblTitle.Font = New Font("Segoe UI", 13F, FontStyle.Bold)
         lblTitle.ForeColor = Color.White
         lblTitle.Location = New Point(29, 27)
         lblTitle.Margin = New Padding(4, 0, 4, 0)
@@ -105,7 +105,7 @@ Partial Class frmIsiUlang
         ' lblFormTitle
         ' 
         lblFormTitle.AutoSize = True
-        lblFormTitle.Font = New Font("Segoe UI", 10.0F, FontStyle.Bold)
+        lblFormTitle.Font = New Font("Segoe UI", 10F, FontStyle.Bold)
         lblFormTitle.ForeColor = Color.FromArgb(CByte(15), CByte(110), CByte(86))
         lblFormTitle.Location = New Point(23, 23)
         lblFormTitle.Margin = New Padding(4, 0, 4, 0)
@@ -117,7 +117,7 @@ Partial Class frmIsiUlang
         ' lblNama
         ' 
         lblNama.AutoSize = True
-        lblNama.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblNama.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblNama.ForeColor = Color.FromArgb(CByte(60), CByte(60), CByte(80))
         lblNama.Location = New Point(23, 83)
         lblNama.Margin = New Padding(4, 0, 4, 0)
@@ -129,7 +129,7 @@ Partial Class frmIsiUlang
         ' txtNama
         ' 
         txtNama.BorderStyle = BorderStyle.FixedSingle
-        txtNama.Font = New Font("Segoe UI", 10.0F)
+        txtNama.Font = New Font("Segoe UI", 10F)
         txtNama.Location = New Point(23, 113)
         txtNama.Margin = New Padding(4, 5, 4, 5)
         txtNama.Name = "txtNama"
@@ -139,7 +139,7 @@ Partial Class frmIsiUlang
         ' lblHP
         ' 
         lblHP.AutoSize = True
-        lblHP.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblHP.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblHP.ForeColor = Color.FromArgb(CByte(60), CByte(60), CByte(80))
         lblHP.Location = New Point(23, 180)
         lblHP.Margin = New Padding(4, 0, 4, 0)
@@ -151,7 +151,7 @@ Partial Class frmIsiUlang
         ' txtHP
         ' 
         txtHP.BorderStyle = BorderStyle.FixedSingle
-        txtHP.Font = New Font("Segoe UI", 10.0F)
+        txtHP.Font = New Font("Segoe UI", 10F)
         txtHP.Location = New Point(23, 210)
         txtHP.Margin = New Padding(4, 5, 4, 5)
         txtHP.Name = "txtHP"
@@ -161,7 +161,7 @@ Partial Class frmIsiUlang
         ' lblProduk
         ' 
         lblProduk.AutoSize = True
-        lblProduk.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblProduk.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblProduk.ForeColor = Color.FromArgb(CByte(60), CByte(60), CByte(80))
         lblProduk.Location = New Point(23, 277)
         lblProduk.Margin = New Padding(4, 0, 4, 0)
@@ -173,7 +173,7 @@ Partial Class frmIsiUlang
         ' cboProduk
         ' 
         cboProduk.DropDownStyle = ComboBoxStyle.DropDownList
-        cboProduk.Font = New Font("Segoe UI", 10.0F)
+        cboProduk.Font = New Font("Segoe UI", 10F)
         cboProduk.Location = New Point(23, 307)
         cboProduk.Margin = New Padding(4, 5, 4, 5)
         cboProduk.Name = "cboProduk"
@@ -183,7 +183,7 @@ Partial Class frmIsiUlang
         ' lblJumlahInput
         ' 
         lblJumlahInput.AutoSize = True
-        lblJumlahInput.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblJumlahInput.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblJumlahInput.ForeColor = Color.FromArgb(CByte(60), CByte(60), CByte(80))
         lblJumlahInput.Location = New Point(23, 373)
         lblJumlahInput.Margin = New Padding(4, 0, 4, 0)
@@ -195,7 +195,7 @@ Partial Class frmIsiUlang
         ' txtJumlah
         ' 
         txtJumlah.BorderStyle = BorderStyle.FixedSingle
-        txtJumlah.Font = New Font("Segoe UI", 10.0F)
+        txtJumlah.Font = New Font("Segoe UI", 10F)
         txtJumlah.Location = New Point(23, 403)
         txtJumlah.Margin = New Padding(4, 5, 4, 5)
         txtJumlah.Name = "txtJumlah"
@@ -205,7 +205,7 @@ Partial Class frmIsiUlang
         ' lblTotal
         ' 
         lblTotal.AutoSize = True
-        lblTotal.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblTotal.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblTotal.ForeColor = Color.FromArgb(CByte(60), CByte(60), CByte(80))
         lblTotal.Location = New Point(23, 470)
         lblTotal.Margin = New Padding(4, 0, 4, 0)
@@ -218,7 +218,7 @@ Partial Class frmIsiUlang
         ' 
         txtTotal.BackColor = Color.FromArgb(CByte(240), CByte(244), CByte(248))
         txtTotal.BorderStyle = BorderStyle.FixedSingle
-        txtTotal.Font = New Font("Segoe UI", 10.0F)
+        txtTotal.Font = New Font("Segoe UI", 10F)
         txtTotal.Location = New Point(23, 500)
         txtTotal.Margin = New Padding(4, 5, 4, 5)
         txtTotal.Name = "txtTotal"
@@ -229,7 +229,7 @@ Partial Class frmIsiUlang
         ' lblTgl
         ' 
         lblTgl.AutoSize = True
-        lblTgl.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblTgl.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblTgl.ForeColor = Color.FromArgb(CByte(60), CByte(60), CByte(80))
         lblTgl.Location = New Point(23, 567)
         lblTgl.Margin = New Padding(4, 0, 4, 0)
@@ -240,7 +240,7 @@ Partial Class frmIsiUlang
         ' 
         ' dtpTanggal
         ' 
-        dtpTanggal.Font = New Font("Segoe UI", 10.0F)
+        dtpTanggal.Font = New Font("Segoe UI", 10F)
         dtpTanggal.Format = DateTimePickerFormat.Short
         dtpTanggal.Location = New Point(23, 597)
         dtpTanggal.Margin = New Padding(4, 5, 4, 5)
@@ -251,7 +251,7 @@ Partial Class frmIsiUlang
         ' lblStatus
         ' 
         lblStatus.AutoSize = True
-        lblStatus.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblStatus.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblStatus.ForeColor = Color.FromArgb(CByte(60), CByte(60), CByte(80))
         lblStatus.Location = New Point(23, 663)
         lblStatus.Margin = New Padding(4, 0, 4, 0)
@@ -263,7 +263,7 @@ Partial Class frmIsiUlang
         ' cboStatus
         ' 
         cboStatus.DropDownStyle = ComboBoxStyle.DropDownList
-        cboStatus.Font = New Font("Segoe UI", 10.0F)
+        cboStatus.Font = New Font("Segoe UI", 10F)
         cboStatus.Items.AddRange(New Object() {"Proses", "Selesai"})
         cboStatus.Location = New Point(23, 693)
         cboStatus.Margin = New Padding(4, 5, 4, 5)
@@ -277,7 +277,7 @@ Partial Class frmIsiUlang
         btnSimpan.Cursor = Cursors.Hand
         btnSimpan.FlatAppearance.BorderSize = 0
         btnSimpan.FlatStyle = FlatStyle.Flat
-        btnSimpan.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnSimpan.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnSimpan.ForeColor = Color.White
         btnSimpan.Location = New Point(23, 777)
         btnSimpan.Margin = New Padding(4, 5, 4, 5)
@@ -294,7 +294,7 @@ Partial Class frmIsiUlang
         btnHapus.Enabled = False
         btnHapus.FlatAppearance.BorderSize = 0
         btnHapus.FlatStyle = FlatStyle.Flat
-        btnHapus.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnHapus.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnHapus.ForeColor = Color.White
         btnHapus.Location = New Point(220, 777)
         btnHapus.Margin = New Padding(4, 5, 4, 5)
@@ -311,7 +311,7 @@ Partial Class frmIsiUlang
         btnBatal.Enabled = False
         btnBatal.FlatAppearance.BorderSize = 0
         btnBatal.FlatStyle = FlatStyle.Flat
-        btnBatal.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnBatal.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnBatal.ForeColor = Color.White
         btnBatal.Location = New Point(23, 850)
         btnBatal.Margin = New Padding(4, 5, 4, 5)
@@ -327,7 +327,7 @@ Partial Class frmIsiUlang
         btnTutup.Cursor = Cursors.Hand
         btnTutup.FlatAppearance.BorderSize = 0
         btnTutup.FlatStyle = FlatStyle.Flat
-        btnTutup.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnTutup.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnTutup.ForeColor = Color.White
         btnTutup.Location = New Point(220, 850)
         btnTutup.Margin = New Padding(4, 5, 4, 5)
@@ -351,7 +351,7 @@ Partial Class frmIsiUlang
         ' lblJumlah
         ' 
         lblJumlah.AutoSize = True
-        lblJumlah.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        lblJumlah.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         lblJumlah.ForeColor = Color.FromArgb(CByte(15), CByte(110), CByte(86))
         lblJumlah.Location = New Point(17, 20)
         lblJumlah.Margin = New Padding(4, 0, 4, 0)
@@ -370,7 +370,7 @@ Partial Class frmIsiUlang
         dgvPesan.BorderStyle = BorderStyle.None
         DataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle2.BackColor = Color.FromArgb(CByte(15), CByte(110), CByte(86))
-        DataGridViewCellStyle2.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        DataGridViewCellStyle2.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         DataGridViewCellStyle2.ForeColor = Color.White
         DataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight
         DataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText
@@ -379,7 +379,7 @@ Partial Class frmIsiUlang
         dgvPesan.ColumnHeadersHeight = 34
         DataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle3.BackColor = SystemColors.Window
-        DataGridViewCellStyle3.Font = New Font("Segoe UI", 9.0F)
+        DataGridViewCellStyle3.Font = New Font("Segoe UI", 9F)
         DataGridViewCellStyle3.ForeColor = SystemColors.ControlText
         DataGridViewCellStyle3.SelectionBackColor = SystemColors.Highlight
         DataGridViewCellStyle3.SelectionForeColor = SystemColors.HighlightText
@@ -401,7 +401,7 @@ Partial Class frmIsiUlang
         ' 
         ' frmIsiUlang
         ' 
-        AutoScaleDimensions = New SizeF(10.0F, 25.0F)
+        AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.White
         ClientSize = New Size(1457, 1050)
