@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmisiulang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmisiulang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmprodukjadi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmprodukjadi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmpilihan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmpilihan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmpelanggan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmpelanggan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\connectionmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:connectionmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\datamoduleproduk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:datamoduleproduk.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\datamodulepelanggan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:datamodulepelanggan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\datamoduleisiulang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:datamoduleisiulang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmisiulang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmisiulang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmprodukjadi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmprodukjadi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmprodukjadi.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmprodukjadi.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmpilihan.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmpilihan.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmpilihan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmpilihan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmpelanggan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmpelanggan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmisiulang.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmisiulang.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\frmpelanggan.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:frmpelanggan.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|c:\\users\\ega\\onedrive\\dokumen\\posttest_vis\\posttest_6\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{018E810E-0A85-4B09-881D-8E32028E5FF2}|POSTTEST_6.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmIsiUlang.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmIsiUlang.vb",
+              "RelativeDocumentMoniker": "frmIsiUlang.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmIsiUlang.vb",
+              "RelativeToolTip": "frmIsiUlang.vb",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAUwKMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:14:52.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataModulePelanggan.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\DataModulePelanggan.vb",
+              "RelativeDocumentMoniker": "DataModulePelanggan.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\DataModulePelanggan.vb",
+              "RelativeToolTip": "DataModulePelanggan.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:14:10.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPelanggan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmPelanggan.vb",
+              "RelativeDocumentMoniker": "frmPelanggan.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmPelanggan.vb [Design]",
+              "RelativeToolTip": "frmPelanggan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:11:14.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T13:48:35.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmProdukJadi.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmProdukJadi.vb",
+              "RelativeDocumentMoniker": "frmProdukJadi.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmProdukJadi.vb [Design]",
+              "RelativeToolTip": "frmProdukJadi.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:17:40.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConnectionModule.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\ConnectionModule.vb",
+              "RelativeDocumentMoniker": "ConnectionModule.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\ConnectionModule.vb",
+              "RelativeToolTip": "ConnectionModule.vb",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T15:03:32.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmpilihan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmpilihan.vb",
+              "RelativeDocumentMoniker": "frmpilihan.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmpilihan.vb [Design]",
+              "RelativeToolTip": "frmpilihan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:02:05.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmIsiUlang.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmIsiUlang.vb",
+              "RelativeDocumentMoniker": "frmIsiUlang.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmIsiUlang.vb [Design]",
+              "RelativeToolTip": "frmIsiUlang.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:12:48.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmProdukJadi.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmProdukJadi.Designer.vb",
+              "RelativeDocumentMoniker": "frmProdukJadi.Designer.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmProdukJadi.Designer.vb",
+              "RelativeToolTip": "frmProdukJadi.Designer.vb",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAIwHUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:17:42.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmProdukJadi.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmProdukJadi.vb",
+              "RelativeDocumentMoniker": "frmProdukJadi.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmProdukJadi.vb",
+              "RelativeToolTip": "frmProdukJadi.vb",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:22:27.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataModuleIsiUlang.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\DataModuleIsiUlang.vb",
+              "RelativeDocumentMoniker": "DataModuleIsiUlang.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\DataModuleIsiUlang.vb",
+              "RelativeToolTip": "DataModuleIsiUlang.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:36:11.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataModuleProduk.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\DataModuleProduk.vb",
+              "RelativeDocumentMoniker": "DataModuleProduk.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\DataModuleProduk.vb",
+              "RelativeToolTip": "DataModuleProduk.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:37:36.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmpilihan.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmpilihan.vb",
+              "RelativeDocumentMoniker": "frmpilihan.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmpilihan.vb",
+              "RelativeToolTip": "frmpilihan.vb",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:16:15.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmPelanggan.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmPelanggan.vb",
+              "RelativeDocumentMoniker": "frmPelanggan.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmPelanggan.vb",
+              "RelativeToolTip": "frmPelanggan.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:14:31.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmpilihan.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmpilihan.Designer.vb",
+              "RelativeDocumentMoniker": "frmpilihan.Designer.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmpilihan.Designer.vb",
+              "RelativeToolTip": "frmpilihan.Designer.vb",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAmwM4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:08:47.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmIsiUlang.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmIsiUlang.Designer.vb",
+              "RelativeDocumentMoniker": "frmIsiUlang.Designer.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmIsiUlang.Designer.vb",
+              "RelativeToolTip": "frmIsiUlang.Designer.vb",
+              "ViewState": "AgIAAIIBAAAAAAAAAAAmwKUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:12:52.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmPelanggan.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmPelanggan.Designer.vb",
+              "RelativeDocumentMoniker": "frmPelanggan.Designer.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\frmPelanggan.Designer.vb",
+              "RelativeToolTip": "frmPelanggan.Designer.vb",
+              "ViewState": "AgIAACABAAAAAAAAAAAmwFgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T14:11:20.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T13:55:22.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\EGA\\OneDrive\\Dokumen\\POSTTEST_VIS\\POSTTEST_6\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAmwNAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T13:54:10.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
